@@ -1,0 +1,19 @@
+2022最新V2Ray搭建教程，V2Ray一键搭建脚本！
+
+
+
+
+---------------------------------------------------------
+
+V2Ray一键安装代码，自动关闭防火墙，自动安装BBR加速。
+输入以下命令一键安装，回车执行：
+bash <(curl -s -L https://git.io/v2ray-setup.sh)
+
+老鸟可以用这个自定义安装：
+bash <(curl -s -L https://git.io/v2rayinstall.sh)
+
+---------------------------------------------------------
+
+FinalShell （Win版）下载: http://www.hostbuf.com/downloads/finalshell_install.exe
+
+FinalShell （macOS版）下载: http://www.hostbuf.com/downloads/finalshell_install.pkg
